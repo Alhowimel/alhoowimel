@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { font-family: 'Tajawal', sans-serif; }
+body { margin: 0; background: #fff; }
+input, select, textarea { font-family: 'Tajawal', sans-serif; }
